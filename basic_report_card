@@ -1,0 +1,65 @@
+class Main {
+  public static void main(String[] args) {
+
+String name ="Jean Lobo";
+String school="Masai School";
+
+char grade= 'A';
+char section= 'A';
+
+  int rollNo=248;  
+
+    int maths= 99,science=88,english=77;
+
+   System.out.println("\n");
+
+System.out.println("▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒");
+
+    
+System.out.println("                     "+school+"        ");
+
+  System.out.println("---------------------------------------------------------------");
+
+    System.out.println("Name: "+name +"    "+"Roll No.: "+rollNo+"      "+"Section: "+section+"       "+"Grade :"+grade);
+
+     System.out.println("---------------------------------------------------------------");
+
+    System.out.println("Maths:   "+maths);
+      System.out.println("Science: "+science);
+      System.out.println("English: "+english);
+
+        System.out.println("---------------------------------------------------------------");
+    
+
+ System.out.println("\n");
+
+
+
+
+
+
+    
+  }
+}
+
+
+
+
+
+
+// o/p:
+
+
+//
+
+
+
+
+
+
+
+
+
+
+
+
